@@ -14,7 +14,7 @@ Udacity Data Science Nanodegree Program Project
 Code runs with Python 3.9 and requires some libraries. In order to install libraries:
 `pip install -r requirements.txt`
 
-You will also need to download Stackoverflow Annual Survey Results of 2019, 2020 and 2021 which can be found [here](#https://insights.stackoverflow.com/survey/)
+You will also need to download Stackoverflow Annual Survey Results of 2019, 2020 and 2021 which can be found [here](https://insights.stackoverflow.com/survey/)
 
 ## Project Motivation <a name="motivation"></a>
 
