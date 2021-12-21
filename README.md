@@ -32,7 +32,7 @@ First project of Udacity Data Science Nanodegree Program. I used last three year
 
 ## Results <a name="results"></a>
 
-Findings can be found in notebook and blog post I shared [here](#)
+Findings can be found in notebook and blog post I shared [here]()
 
 ## Licensing <a name="licensing"></a>
-Must give credit to Stackoverflow for the data. You can find the Licensing for the data and other descriptive information at the Stackoverflow link available [here](#https://insights.stackoverflow.com/survey/).
+Must give credit to Stackoverflow for the data. You can find the Licensing for the data and other descriptive information at the Stackoverflow link available [here](https://insights.stackoverflow.com/survey/).
