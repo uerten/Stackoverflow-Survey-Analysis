@@ -19,9 +19,9 @@ You will also need to download Stackoverflow Annual Survey Results of 2019, 2020
 ## Project Motivation <a name="motivation"></a>
 
 First project of Udacity Data Science Nanodegree Program. I used last three years of Stackoverflow Developer Survey results to answer these three questions below:
-1. Programming Language, Database, Platform and Webframe prefereneces of some Mediterranean countries and is there any differences from Turkey ?
-2. Salary comparison by Age, Years of Coding, Education Level and Development Type through years
-3. 
+1. Is there Language, Database, Platform and WebFrame preference differences between Turkey and EU Countries ?
+2. What are top paid languages, databases, platforms and webframes ?
+3. Salary trend analysis by country, age, years of code, education level and developer type through years
 
 ## File Description <a name="files"></a>
 
