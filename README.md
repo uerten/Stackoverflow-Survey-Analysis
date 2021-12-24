@@ -30,6 +30,8 @@ First project of Udacity Data Science Nanodegree Program. I used last three year
 3. \data\2020\survey_results_public.csv: 2020 survey results in csv format
 4. \data\2021\survey_results_public.csv: 2021 survey results in csv format
 
+Survey results are stored in data.rar file in this repo because of github file limit. You can unrar the file or download survey results from the link in [Installation](#installation) section
+
 ## Results <a name="results"></a>
 
 Findings can be found in notebook and blog post I shared [here]()
