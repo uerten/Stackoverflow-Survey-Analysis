@@ -35,7 +35,7 @@ Survey results are stored in data.rar file in this repo because of github file l
 
 ## Results <a name="results"></a>
 
-Findings can be found in notebook and blog post I shared [here]()
+Findings can be found in notebook and blog post I shared [here](https://medium.com/@erten.ufuk/insights-about-developer-tools-and-salary-trends-among-european-countries-b01707ac460f)
 
 ## Licensing <a name="licensing"></a>
 Must give credit to Stackoverflow for the data. You can find the Licensing for the data and other descriptive information at the Stackoverflow link available [here](https://insights.stackoverflow.com/survey/).
